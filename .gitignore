@@ -1,0 +1,6 @@
+*.class
+.classpath
+.fatjar
+.project
+.settings
+bin
